@@ -1,0 +1,2 @@
+# safelinklite
+file js safelinklite
